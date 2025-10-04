@@ -375,7 +375,7 @@ Outputs:
 cloudfront_url = "d246o7opnvxl8.cloudfront.net"
 frontend_bucket_name = "devops-accelerator-frontend-hosting-bucket"
 lambda_function_name = "process-uploaded-file"
-presigned_url_api_endpoint = "https://0jwmlx4c0a.execute-api.us-east-1.amazonaws.com"
+presigned_url_api_endpoint = "https://hh0o4sjmwa.execute-api.us-east-1.amazonaws.com"
 ```
 
  Replace any **placeholder URLs** in your project with the real ones above.
